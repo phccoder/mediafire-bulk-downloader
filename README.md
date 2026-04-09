@@ -2,7 +2,7 @@
 
 A modern, multi-threaded desktop application to bulk download files and folders from Mediafire. Built with Python and `ttkbootstrap`, this tool features an IDM-style (Internet Download Manager) interface that provides real-time progress tracking, download speeds, and file management.
 
-https://raw.githubusercontent.com/phccoder/mediafire-bulk-downloader/refs/heads/main/screenshot.png
+![Mediafire Downloader Screenshot](https://raw.githubusercontent.com/phccoder/mediafire-bulk-downloader/refs/heads/main/screenshot.png)
 
 ## ✨ Features
 
